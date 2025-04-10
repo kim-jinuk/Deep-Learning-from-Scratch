@@ -60,9 +60,6 @@ python ch02/softmax.py
 
 포크(fork) → 브랜치 생성 → 수정 → PR
 
-버그 리포트는 최소 재현 코드/스크린샷 포함
-
-PEP 8, Black 포맷터 준수
 
 # 📄 라이선스
 본 저장소의 코드는 MIT License.
