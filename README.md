@@ -44,7 +44,7 @@ python -m venv venv && source venv/bin/activate
 python ch02/softmax.py
 ```
 
-## 필수 버전
+## 버전
 ```
 Python ≥ 3.9
 NumPy ≥ 1.22
@@ -61,7 +61,7 @@ Regularization	Dropout, Weight Decay	overfitting 실험
 Visualization	Loss, Accuracy 그래프, Decision Boundary	Matplotlib 기반
 주의: GPU 가속은 포함하지 않았습니다. Pure NumPy로 CPU에서 동작합니다.
 
-🤝 기여 (Contributing)
+# 🤝 기여 (Contributing)
 이 레포는 학습 기록이지만 이슈·PR 환영합니다!
 
 포크(fork) → 브랜치 생성 → 수정 → PR
@@ -70,14 +70,14 @@ Visualization	Loss, Accuracy 그래프, Decision Boundary	Matplotlib 기반
 
 PEP 8, Black 포맷터 준수
 
-📄 라이선스
+# 📄 라이선스
 본 저장소의 코드는 MIT License.
 
 책의 그림·본문 인용은 저작권법에 따라 교육·연구 목적으로만 사용됩니다. 상업적 이용은 금지합니다.
 
 원저자: © Goki Saito / O’Reilly Japan.
 
-🙏 감사의 글
+# 🙏 감사의 글
 사이토 고키 – ‘밑바닥’ 시리즈로 딥러닝 입문 장벽을 허물어 주신 분.
 
 모든 오픈소스 기여자 – NumPy, Matplotlib, Jupyter 커뮤니티.
