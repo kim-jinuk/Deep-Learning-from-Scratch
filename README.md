@@ -25,12 +25,13 @@
 ├── common   /  layers, optim, util
 ├── dataset  /  mnist.py, spiral.py …
 └── README.md  ← you are here
+```
 
-
+```text
 ## 저장소 클론
 git clone https://github.com/kim-jinuk/Deep-Learning-from-Scratch.git
 cd Deep-Learning-from-Scratch
-
+```
 
 ## 요구사항
 소스 코드를 실행하려면 아래의 소프트웨어가 설치되어 있어야 합니다.
