@@ -27,7 +27,7 @@
 └── README.md  ← you are here
 ```
 
-🚀 빠른 시작
+# 🚀 빠른 시작
 ## 1) 저장소 클론
 ```
 git clone https://github.com/kim-jinuk/Deep-Learning-from-Scratch.git
@@ -51,7 +51,8 @@ NumPy ≥ 1.22
 (옵션) Matplotlib, tqdm, Pillow
 ```
 
-
+<br>
+<br>
 
 # 🤝 기여 (Contributing)
 이 레포는 학습 기록이지만 이슈·PR 환영합니다!
