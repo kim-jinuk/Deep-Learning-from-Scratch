@@ -28,18 +28,18 @@
 ```
 
 🚀 빠른 시작
-# 1) 저장소 클론
+## 1) 저장소 클론
 ```
 git clone https://github.com/kim-jinuk/Deep-Learning-from-Scratch.git
 cd Deep-Learning-from-Scratch
 ```
 
-# 2) 가상환경 (선택)
+## 2) 가상환경 (선택)
 ```
 python -m venv venv && source venv/bin/activate
 ```
 
-# 3) 예제 실행 – Softmax 구현 확인
+## 3) 예제 실행 – Softmax 구현 확인
 ```
 python ch02/softmax.py
 ```
