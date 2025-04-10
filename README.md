@@ -51,15 +51,7 @@ NumPy ≥ 1.22
 (옵션) Matplotlib, tqdm, Pillow
 ```
 
-## 🛠️ 구현 하이라이트
-파트	주요 구현	특징
-Perceptron	AND, NAND, OR 게이트	비선형 조합으로 XOR 재현
-Backprop	TwoLayerNet, gradient_check	수치 미분 vs. 역전파 검증
-Optimizer	SGD, Momentum, AdaGrad, Adam	공통 인터페이스 제공
-CNN	im2col, col2im, Convolution / Pooling 계층	im2col + GEMM 전략 실습
-Regularization	Dropout, Weight Decay	overfitting 실험
-Visualization	Loss, Accuracy 그래프, Decision Boundary	Matplotlib 기반
-주의: GPU 가속은 포함하지 않았습니다. Pure NumPy로 CPU에서 동작합니다.
+
 
 # 🤝 기여 (Contributing)
 이 레포는 학습 기록이지만 이슈·PR 환영합니다!
