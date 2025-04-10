@@ -27,6 +27,13 @@
 └── README.md  ← you are here
 ```
 
+## 버전
+```
+Python ≥ 3.9
+NumPy ≥ 1.22
+(옵션) Matplotlib, tqdm, Pillow
+```
+
 # 🚀 빠른 시작
 ## 1) 저장소 클론
 ```
@@ -44,15 +51,9 @@ python -m venv venv && source venv/bin/activate
 python ch02/softmax.py
 ```
 
-## 버전
-```
-Python ≥ 3.9
-NumPy ≥ 1.22
-(옵션) Matplotlib, tqdm, Pillow
-```
 
 <br>
-<br>
+
 
 # 🤝 기여 (Contributing)
 이 레포는 학습 기록이지만 이슈·PR 환영합니다!
