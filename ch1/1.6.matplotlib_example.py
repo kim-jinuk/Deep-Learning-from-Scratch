@@ -2,7 +2,7 @@ import numpy as np
 import matplotlib.pyplot as plt
 from matplotlib.image import imread
 
-# 1.6.1 sin 함수 그래프 그리기
+# 1.6.1 sin 함수 그래프 그리기 
 def draw_sin_func():
     x = np.arange(0, 6, 0.1)    # x 범위
     y = np.sin(x)               # y 값 설정
