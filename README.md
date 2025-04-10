@@ -40,15 +40,18 @@ python -m venv venv && source venv/bin/activate
 ```
 
 # 3) 예제 실행 – Softmax 구현 확인
+```
 python ch02/softmax.py
-필수 버전
+```
+
+## 필수 버전
+```
 Python ≥ 3.9
-
 NumPy ≥ 1.22
-
 (옵션) Matplotlib, tqdm, Pillow
+```
 
-🛠️ 구현 하이라이트
+## 🛠️ 구현 하이라이트
 파트	주요 구현	특징
 Perceptron	AND, NAND, OR 게이트	비선형 조합으로 XOR 재현
 Backprop	TwoLayerNet, gradient_check	수치 미분 vs. 역전파 검증
