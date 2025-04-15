@@ -1,4 +1,4 @@
-# 밑바닥부터 시작하는 딥러닝 – 개인 구현
+# 밑바닥부터 시작하는 딥러닝 – 개인 학습용 구현
 
 > **From‑Scratch Deep Learning Implementations in Pure Python / NumPy**
 
